@@ -1,0 +1,20 @@
+{
+  "name": "material-color-palette-cssnext",
+  "version": "1.0.0",
+  "description": "Material Design color palette exported as cssnext variables",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfjessup/material-color-palette-cssnext.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "cssnext"
+  ],
+  "author": "James F Jessup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfjessup/material-color-palette-cssnext/issues"
+  },
+  "homepage": "https://github.com/jfjessup/material-color-palette-cssnext#readme"
+}
